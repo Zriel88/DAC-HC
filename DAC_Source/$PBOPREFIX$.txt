@@ -1,0 +1,5 @@
+///'DAC_Source.pbo' from Mikero's dos tools, dll version 5.66///
+prefix=DAC_Source
+Pbo Type is: Arma Addon
+Sha: '6EE99AF141091D63DE7F70803BDBD4587276500F'
+//////</HEADER>//////
